@@ -16,4 +16,4 @@ Creating Data visualizations on separate topics was great to experience the flex
 our data visualizations where I learned:
 - What features to pursue further information from
 - heat maps and their correlations within the dataset
-- Different libraries and graphics we can develop for data visualization in both and informative and visually appealing way
+- Different libraries and graphics we can develop for data visualization in both an informative and visually appealing way
